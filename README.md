@@ -4,7 +4,7 @@
 
 This project created with HTML, CSS and JavaScript. It generates random colors in HEX, RGB and RGBA.
 
-#### Live: https://abdurauf1.github.io/random-color-generator/
+#### Live: https://aabdurauf.github.io/random-color-generator/
 
 ### Installation
 
